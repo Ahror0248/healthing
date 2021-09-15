@@ -64,7 +64,7 @@ export const Database = [
             "beef, tomatoes,\n" +
             "mozzarella and chipotle sauce\n",
         price: "23,000",
-        imgSrc: "../assets/img/Cheeseburger.png"
+        imgSrc: "../assets/img/Bitmapche.png"
     }
 
 ]
